@@ -27,7 +27,7 @@
 - Intervention Readiness Class
 
 ## Methods
-- Data cleaning and Precprocessing
+- Data cleaning and Preprocessing
 - Exporatory Data Analysis: Correlation Heatmap,Distributions,Feature Importance Analysis,Confusion Matrix
 - Machine Learning Model: Logistic Regression for classification
 - Train-test split, Cross-validation and Accuracy evaluation
